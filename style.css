@@ -1,0 +1,95 @@
+/* h1 */
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+/* h2 */
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+/* h3 */
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
+
+/* p */
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* button */
+button {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* a */
+a {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* img */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ul */
+ul {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* li */
+li {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* table */
+table {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* body */
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+/* header */
+header {
+    background-color: rgb(255, 255, 255);
+}
+
+/* footer */
+footer {
+    background-color: rgb(255, 255, 255);
+}
+
+/* nav */
+nav {
+    background-color: rgb(255, 255, 255);
+}
+
+/* section */
+section {
+    background-color: rgb(255, 255, 255);
+}
+
+/* article */
+article {
+    background-color: rgb(255, 255, 255);
+}
+
+/* aside */
+aside {
+    background-color: rgb(255, 255, 255);
+}
